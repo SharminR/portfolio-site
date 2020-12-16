@@ -5,21 +5,21 @@ const GithubButton = () => (
   <>
     <GitHubButton
       className="github-button"
-      href="https://github.com/cobidev/gatsby-simplefolio/fork"
-      data-icon="octicon-repo-forked"
+      href="https://github.com/SharminR"
+      data-icon=""
       data-size="large"
       data-show-count="true"
-      aria-label="Fork cobidev/gatsby-simplefolio on GitHub"
+      aria-label=""
     >
       Fork
     </GitHubButton>
     <GitHubButton
       className="github-button"
-      href="https://github.com/cobidev/gatsby-simplefolio"
-      data-icon="octicon-star"
+      href="https://github.com/SharminR"
+      data-icon=""
       data-size="large"
       data-show-count="true"
-      aria-label="Star cobidev/gatsby-simplefolio on GitHub"
+      aria-label=""
     >
       Star
     </GitHubButton>
