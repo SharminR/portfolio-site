@@ -22,7 +22,7 @@ export const aboutData = {
     'I am a graphic designer turned software developer. I am eager to apply programming and development knowledge acquired from the software development vocational training into practicality.',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://drive.google.com/file/d/13ymJ1H8sKQalAhzfdKgKqrQgyszj-K3D/view?usp=sharing', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
