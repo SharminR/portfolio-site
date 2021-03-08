@@ -59,13 +59,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project_1.png',
-    title: 'Cocktail Database',
+    img: 'react-form-img.png',
+    title: 'Simple Form',
     info:
-      'Personal project that is made with create-react-app. Project uses api to fetch data and show all cocktails from the database with detail information. Project also uses react-router for navigation. Searchbar to get data of specific type of cocktail!',
+      'Personal project made with create-react-app. A simple login form that checks the validity of input data and shows a success page if everything is correct!',
     info2: '',
-    url: 'https://cocktail-database-site.netlify.app/',
-    repo: 'https://github.com/SharminR/cocktail-database', // if no repo, the button will not show up
+    url: 'https://sharminr.github.io/react-form/',
+    repo: 'https://github.com/SharminR/react-form', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
